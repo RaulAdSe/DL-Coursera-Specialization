@@ -17,9 +17,7 @@ This specialization is an excellent resource for anyone interested in Deep Learn
 ## Programming Assignments
 
 ### Course 1: Neural Networks and Deep Learning
-
-- [Week 2 - Python Basics with Numpy](Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202%20-%20Neural%20Network%20Basics/Python_Basics_With_Numpy.ipynb)
-- [Week 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org/github/RaulAdSe/DL-Coursera-Sepcialization/blob/master/Notebooks/1 - Neural Networks and Deep Learning/Week 2 - Neural Network Basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+- [Week 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.jupyter.org//github.com/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202%20-%20Neural%20Network%20Basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Week 3 - Planar data classification with one hidden layer](Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203%20-%20Shallow%20Neural%20Networks/Planar_data_classification_with_one_hidden_layer.ipynb)
 - [Week 4 - Building your Deep Neural Network: Step by Step](Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - [Week 4 - Deep Neural Network Application](Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Deep%20Neural%20Network%20Application.ipynb)
