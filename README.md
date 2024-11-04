@@ -21,8 +21,7 @@ This specialization is an excellent resource for anyone interested in Deep Learn
 - [Week 2 - Logistic Regression with a Neural Network mindset](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202%20-%20Neural%20Network%20Basics/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Week 3 - Planar data classification with one hidden layer](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203%20-%20Shallow%20Neural%20Networks/Planar_data_classification_with_one_hidden_layer.ipynb)
 - [Week 4 - Building your Deep Neural Network: Step by Step](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-- [Week 4 - Deep Neural Network Application](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Deep_Neural_Network_Application.ipynb)
-
+- [Week 4 - Deep Neural Network Application](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204%20-%20Deep%20Neural%20Networks/Deep Neural Network - Application.ipynb
 ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
 - [Week 1 - Initialization](https://nbviewer.org/github/RaulAdSe/DL-Coursera-Specialization/blob/main/Notebooks/2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201%20-%20Practical%20Aspects%20of%20DL/Initialization.ipynb)
